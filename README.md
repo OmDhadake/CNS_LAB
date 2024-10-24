@@ -1,3 +1,3 @@
 This repository contains codes for the CNS Lab ||
-Rohan Hiraman Sawant-TCOD19 ||
+Om Dhadke-TCOD41 ||
 TE-D  ||   Computer Engineering
